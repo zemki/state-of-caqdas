@@ -1,5 +1,7 @@
 # State of CAQDAS
 
+[![DOI](https://zenodo.org/badge/1069558462.svg)](https://doi.org/10.5281/zenodo.17304034)
+
 Systematic collection and evaluation of qualitative data analysis software.
 We provide all datasets as CC0 and using only free+open formats 
 (text, json, yaml, csv).
