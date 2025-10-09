@@ -1,6 +1,9 @@
 # State of CAQDAS
 
 [![DOI](https://zenodo.org/badge/1069558462.svg)](https://doi.org/10.5281/zenodo.17304034)
+[![Havard Dataverse](https://img.shields.io/badge/dataverse-10.7910%2FDVN%2FLKV8OT-orange?label=Dataverse)](https://doi.org/10.7910/DVN/LKV8OT)
+![GitHub License](https://img.shields.io/github/license/zemki/state-of-caqdas)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 Systematic collection and evaluation of qualitative data analysis software.
 We provide all datasets as CC0 and using only free+open formats 
