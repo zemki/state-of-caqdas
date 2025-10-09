@@ -1,0 +1,12 @@
+name: Wikidata
+slug: wikidata
+method:
+  - perform a sparql query on Wikidata for "caqdas" to list all instances
+  - save the response as-is into a response.csv file
+  - follow the item links and record Name and URL into the final results.csv
+
+query: query.sparql
+url: https://query.wikidata.org/sparql?query=SELECT%20DISTINCT%20%3Fitem%0AWHERE%20%7B%0A%20%20%20%20%3Fitem%20wdt%3AP31%2Fwdt%3AP279*%20wd%3AQ4550939%0A%7D
+
+response: response.csv
+results: results.csv

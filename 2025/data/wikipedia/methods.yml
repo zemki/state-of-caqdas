@@ -1,0 +1,9 @@
+name: Wikipedia
+slug: wikipedia
+url: https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software
+method:
+  - record names of the listed tools
+  - follow the wikipedia internal links to each tool
+  - look for canonical/official Url and record it
+
+results: results.csv

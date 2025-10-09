@@ -1,0 +1,21 @@
+name: GitHub
+slug: github
+method:
+  - perform a manual search on GitHub
+  - use no login and no registration
+  - use private browser session
+  - filter results to display only repositories
+  - all repositories with more than 1 star included in csv
+  - add entries as their appear in the results
+  - entries are manually added and consist of Name and URL
+
+searches:
+  - term: caqdas
+    url: https://github.com/search?q=caqdas&type=repositories
+    results: results1.csv
+  - term: qda software
+    url: https://github.com/search?q=qda+software&type=repositories
+    results: results2.csv
+  - term: qualitative data analysis
+    url: https://github.com/search?q=qualitative+data+analysis+&type=repositories&s=stars&o=desc
+    results: results3.csv

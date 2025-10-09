@@ -1,0 +1,88 @@
+ATLAS.ti https://atlasti.com
+Dedoose https://www.dedoose.com
+HyperRESEARCH https://www.researchware.com
+MAXQDA https://www.maxqda.com
+NVivo https://www.nvivo.com
+Quirkos https://www.quirkos.com
+f4analyse https://www.audiotranskription.de
+RQDA https://rqda.r-forge.r-project.org
+Coding Analysis Toolkit (CAT) https://cat.texifter.com
+Taguette https://taguette.org
+AQUAD https://www.aquad.de
+Kwalitan https://www.kwalitan.com
+Qualitative Data Analyzer (QDA) Miner https://www.provalisresearch.com
+ANTHROPAC https://www.analytictech.com
+Ethnograph https://www.qualisresearch.com
+HyperTranscribe https://www.researchware.com
+Transana https://www.transana.org
+ELAN https://elan.esotericsoftware.com
+CLAN https://childes.talkbank.org
+Praat https://www.fon.hum.uva.nl/praat
+Computer Assisted Qualitative Data Analysis (CAQDAS) https://www.caqdas.net
+Weft QDA https://weft.qda.org
+Open Coding https://opencoding.org
+Saturate https://saturate.app
+FAMOS https://www.f4analyse.de/famos
+FSQCA https://www.fsqa.org
+CATAAC https://cataac.uqam.ca
+Qiqqa https://www.qiqqa.com
+Mendeley https://www.mendeley.com
+Zotero https://www.zotero.org
+EndNote https://endnote.com
+Citavi https://www.citavi.com
+Quoll https://quoll.io
+Otter https://otter.ai
+oTranscribe https://otranscribe.com
+Express Scribe https://www.nch.com.au/scribe
+InqScribe https://www.inqscribe.com
+ahermeneutic https://ahermeneutic.org
+Cassandre https://cassandre.academia.edu
+webQDA https://www.webqda.net
+Annotations https://annotations.hypothes.is
+Hootsuite Insights https://insights.hootsuite.com
+DiscoverText https://www.discovertext.com
+Datagraver https://datagraver.com
+Oso https://oso.ai
+Dovetail https://dovetail.app
+Refinder https://refinder.com
+Quip https://quip.com
+MarginNote https://www.marginnote.com
+Bear https://bear.app
+Trello https://trello.com
+Evernote https://evernote.com
+OneNote https://www.onenote.com
+Simplenote https://simplenote.com
+Zkn https://zkn3.com
+Logseq https://logseq.com
+Obsidian https://obsidian.md
+Roam Research https://roamresearch.com
+Notion https://notion.so
+Coda https://coda.io
+Airtable https://airtable.com
+Mural https://mural.co
+Google Jamboard https://jamboard.google.com
+Microsoft Whiteboard https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard
+SmartDraw https://www.smartdraw.com
+MindMeister https://www.mindmeister.com
+XMind https://www.xmind.net
+FreeMind https://www.freemind.org
+TheBrain https://www.thebrain.com
+Scapple https://www.literatureandlatte.com/scapple
+yEd https://www.yworks.com/products/yed
+Grapholith https://grapholith.com
+Plot https://plot.io
+yMap https://www.yworks.com/products/ymap
+TextQuest https://www.textquest.de
+Visão https://www.visao.com
+GATE https://gate.ac.uk
+OpenNLP https://opennlp.apache.org
+spaCy https://spacy.io
+Stanford CoreNLP https://stanfordnlp.github.io/CoreNLP
+Natural Language Toolkit (NLTK) https://www.nltk.org
+TextBlob https://textblob.readthedocs.io
+gensim https://radimrehurek.com/gensim
+scikit-learn https://scikit-learn.org
+PyTorch-NLP https://pytorch.org
+Hugging Face Transformers https://huggingface.co
+AllenNLP https://allennlp.org
+FLAIR

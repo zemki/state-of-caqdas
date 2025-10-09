@@ -1,0 +1,104 @@
+"Name";"Available";"Relevant";"Complete";"Score"
+"aquad";1;1;1;3
+"ATLAS.ti";1;1;1;3
+"DEDOOSE";1;1;1;3
+"Delve";1;1;1;3
+"dicto";1;1;1;3
+"ELAN";1;1;1;3
+"f4analyse";1;1;1;3
+"gQDA";1;1;1;3
+"HyperResearch";1;1;1;3
+"lama";1;1;1;3
+"libreQDA";1;1;1;3
+"llm_qualitative_data_analysis";1;1;1;3
+"LLMCode";1;1;1;3
+"MAXQDA";1;1;1;3
+"Nvivo";1;1;1;3
+"openqda/openqda";1;1;1;3
+"qc ";1;1;1;3
+"QCAmap";1;1;1;3
+"QDA Miner";1;1;1;3
+"QDAcity";1;1;1;3
+"Qualcoder";1;1;1;3
+"Quirkos";1;1;1;3
+"Requal";1;1;1;3
+"Taguette";1;1;1;3
+"TamSys";1;1;1;3
+"TigerDataCoding";1;1;1;3
+"Transana";1;1;1;3
+"webQDA";1;1;1;3
+"AILYZE";1;1;;2
+"cassandre";1;1;;2
+"CAT";1;1;;2
+"catnet";1;1;;2
+"CLAN";1;1;;2
+"DiscoverText";1;1;;2
+"Dovetail";1;1;;2
+"express scribe ";1;1;;2
+"fastQDA";1;;1;2
+"FreeQDA";1;;1;2
+"Kwalitan";1;;1;2
+"Leximancer";1;1;;2
+"MeSort";1;1;;2
+"MeTag";1;1;;2
+"MeTag Analyze";1;1;;2
+"mincaqdasr";1;1;;2
+"obehave";1;1;;2
+"Observer XT";1;1;;2
+"obsidian-quadro";1;;1;2
+"orgqda";1;1;;2
+"otranscribe";1;1;;2
+"pytag";1;1;;2
+"QDA Miner Lite";1;1;;2
+"qdap";1;1;;2
+"QualFlow";1;1;;2
+"qualitube";1;1;;2
+"r-min-caqdas ";1;1;;2
+"RQDA";1;1;;2
+"ShAQDAS";1;1;;2
+"shinyqda";1;1;;2
+"vignesh";1;;1;2
+"Weft QDA";1;;1;2
+"Wordsmith tools";1;1;;2
+"Xsight";1;;1;2
+"Raven's Eye";1;;;1
+"Annotations";1;;;1
+"ANTHROPAC";1;;;1
+"barichello/openQDA";1;;;1
+"CAQDAS";1;;;1
+"chawlasahaj/qualitative-topic-modelling";1;;;1
+"CIMS";1;;;1
+"Compendium";1;;;1
+"dockerqda";1;;;1
+"dohliam/thematic-analysis";1;;;1
+"Feldpartitur";1;;;1
+"Fiji-QualiAnnotations";1;;;1
+"Jquarks4S";1;;;1
+"KH Coder";1;;;1
+"MEPA";1;;;1
+"Nvivotools";1;;;1
+"Office-QDA-TagTree";1;;;1
+"Open Code";1;;;1
+"oral-history-as-data";1;;;1
+"Qiqqa";1;;;1
+"QualCA";1;;;1
+"quantqual";1;;;1
+"RCS-NVivo ";1;;;1
+"RQDA-RStudio-sshd";1;;;1
+"RQDA-to-CSV";1;;;1
+"scQA";1;;;1
+"Sequenceviewer";1;;;1
+"Sonal";1;;;1
+"stem";1;;;1
+"Symphony";1;;;1
+"Tosmana";1;;;1
+"WinRelan";1;;;1
+"AnSWR";0;;;0
+"CSC EZ Text";0;;;0
+"DRS";0;;;0
+"MiMeG";0;;;0
+"Pipoca";0;;;0
+"Qualifiers";0;;;0
+"Qualrus";0;;;0
+"The Ethnograph";0;;;0
+"Sum";94;55;35;

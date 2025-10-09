@@ -1,0 +1,37 @@
+name: Duckduckgo LLMs
+slug: llms
+description: >
+  Duckduckgo AI chat, enables publicly available anonymous access to various LLMs
+  without the need for registration or login.
+url: https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1&atb=v322-1
+method:
+  - use all LLMs, available at time of access
+  - anonymous access without installation, login or registration
+  - use a private browser session
+  - raw responses/answers are copied as they are
+  - skip duplicates
+  - mark hallucinations via comments
+  - add entries to final result if related to qualitative data analysis
+
+prompt: >
+  You are a researcher teaching qualitative research at the university. 
+  Compile a minimalist list of all known QDA Software (no limitation)
+  where each entry consists of the name and an optional URL.
+  Do not provide any further information and focus on list completeness.
+
+searches:
+  - model: Claude 3 Haiku
+    response: response-Claude-3-Haiku.txt
+    results: results-c.csv
+  - model: GPT-4o
+    response: response-gpt-4o.txt
+    results: results-g.csv
+  - model: LLAMA 3.3 70B
+    response: response-llama-3.3-70B.txt
+    results: results-l.csv
+  - model: Mistral Small 3
+    response: response-mistral-small-3.txt
+    results: results-m.csv
+  - model: o3 Mini
+    response: response-03-mini.txt
+    results: results-o.csv

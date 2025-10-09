@@ -1,0 +1,11 @@
+name: Zenodo
+slug: zenodo
+method:
+  - perform a manual search using the public search feature on the Zenodo website
+  - add name and Zenodo URL to the results.csv
+  - open the Zenodo URL and look in the page for a link to an official website or linked repository
+
+searches:
+  - term: qualitative data analysis
+    url: https://zenodo.org/search?q=qualitative%20data%20analysis&f=resource_type%3Asoftware&l=list&p=1&s=20&sort=bestmatch
+    results: results.csv

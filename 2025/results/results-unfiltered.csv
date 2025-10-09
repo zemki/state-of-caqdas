@@ -1,0 +1,106 @@
+"Name";"URL";"RSD";"Zenodo";"GitHub";"REFI QDA";"CAQDAS N.P.";"wikipedia";"wikidata";"socsio";"GPT-40";"Llama 3.3";"Claude 3 Haiku";"o3-mini";"Mistral small 3";"Count"
+"AILYZE";"https://www.ailyze.com/";;;;;1;;;;;;;;;1
+"Annotations";"https://web.hypothes.is/";;;;;;;;1;;1;;;;2
+"AnSWR";"http://www.cdc.gov/hiv/library/software/answr/index.html";;;;;;;;1;;;;;;1
+"ANTHROPAC";"https://www.analytictech.com/anthropac/anthropac.htm";;;;;;;;;;1;;;;1
+"aquad";"https://www.aquad.de/";;;;;;1;1;1;;1;;;;4
+"ATLAS.ti";"https://atlasti.com";;;;1;1;1;1;1;1;1;1;1;1;10
+"barichello/openQDA";"https://github.com/barichello/openQDA";;;1;;;;;;;;;;;1
+"CAQDAS";"https://github.com/Lone-Wolf-84/CAQDAS";;;1;;;;;;;;;;;1
+"cassandre";"http://www.cassandre.ulg.ac.be/";;;;;;1;1;1;;1;;;;4
+"CAT";"https://sourceforge.net/projects/catoolkit/";;;;;;1;1;1;1;1;;;;5
+"catnet";"https://github.com/CamiBetancur/catnet/";;1;;;;;;;;;;;;1
+"chawlasahaj/qualitative-topic-modelling";"https://github.com/chawlasahaj/qualitative-topic-modelling";;;1;;;;;;;;;;;1
+"CIMS";"https://consline.com/cims/";;;;;;;1;;;;;;;1
+"CLAN";"https://dali.talkbank.org/clan/";;;;;;1;;1;;1;;;;3
+"Compendium";"https://github.com/compendiumng/compendiumng";;;;;;1;;;;;;;;1
+"CSC EZ Text";"http://www.cdc-eztext.com/";;;;;;;;1;;;;;;1
+"DEDOOSE";"https://www.dedoose.com/";;;;;1;1;1;1;;1;1;1;1;8
+"Delve";"https://delvetool.com/";;;;;1;;;;;;;;;1
+"dicto";"https://github.com/dictoapp/dicto";;;1;;;;;;;;;;;1
+"DiscoverText";"https://www.discovertext.com";;;;;1;;;;;1;;;;2
+"dockerqda";"https://github.com/FrdVnW/dockerqda";;;1;;;;;;;;;;;1
+"dohliam/thematic-analysis";"https://github.com/dohliam/thematic-analysis";;;1;;;;;;;;;;;1
+"Dovetail";"https://dovetail.com/";;;;;;1;;;;1;;;;2
+"DRS";"https://web.mac.com/andy.crabtree/NCeSS_Digital_Records_Node/Welcome.html";;;;;1;;;;;;;;;1
+"ELAN";"https://archive.mpi.nl/tla/elan";;;;;;1;;;;1;;;;2
+"express scribe ";"https://www.nch.com.au/scribe/";;;;;;;;;;1;;;;1
+"f4analyse";"https://www.audiotranskription.de";;;;1;1;;1;1;1;1;;1;1;8
+"fastQDA";"https://github.com/gismo141/fastQDA";;;1;;;;;;;;;;;1
+"Feldpartitur";"https://www.feldpartitur.de/";;;;;;;;1;;;;;;1
+"Fiji-QualiAnnotations";"LauLauThom/Fiji-QualiAnnotations";;;1;;;;;;;;;;;1
+"FreeQDA";"https://github.com/produnis/FreeQDA";;;;;;;;1;;;;;;1
+"gQDA";"https://github.com/jailop/gQDA";;;1;;;;;;;;;;;1
+"HyperResearch";"http://www.researchware.com/";;;;;1;;1;1;1;1;;1;1;7
+"Jquarks4S";"https://github.com/IP-TECH/JQuarks4S";;;1;;;;;;;;;;;1
+"KH Coder";"https://khcoder.net/en/";;;;;;1;;;;;;;;1
+"Kwalitan";"https://www.kwalitan.nl/index.php?t=uk";;;;;;;;1;1;1;;;;3
+"lama";"https://github.com/muctadir/lama";;1;1;;;;;;;;;;;2
+"Leximancer";"https://www.leximancer.com/";;;;;1;;;;;;;1;;2
+"libreQDA";"https://gitlab.com/bin-cirst/libreqda/libre-qda/";;;;;;;;1;;;;;;1
+"llm_qualitative_data_analysis";"https://github.com/Gamma-Software/llm_qualitative_data_analysis";;;1;;;;;;;;;;;1
+"LLMCode";"https://github.com/PerttuHamalainen/LLMCode";;;1;;;;;;;;;;;1
+"MAXQDA";"https://www.maxqda.com/";;;;1;1;1;1;1;1;1;1;1;1;10
+"MEPA";"https://web.archive.org/web/20170612101407/http://edugate.fss.uu.nl/mepa/index.htm";;;;;;;;1;;;;;;1
+"MeSort";"https://github.com/zemki/mesort";;1;;;;;;;;;;;;1
+"MeTag";"https://github.com/zemki/metag";;1;;;;;;;;;;;;1
+"MeTag Analyze";"https://github.com/zemki/metag-analyze";;1;;;;;;;;;;;;1
+"MiMeG";"http://www.ncess.ac.uk/research/video/mimeg/";;;;;1;;;;;;;;;1
+"mincaqdasr";"https://github.com/gastonbecerra/mincaqdasr";;;1;;;;;;;;;;;1
+"Nvivo";"https://lumivero.com/products/nvivo/";;;;1;1;1;;1;1;1;1;1;1;9
+"Nvivotools";"https://web.archive.org/web/20210214132148/https://www.barraqda.org/nvivotools/";;;;;;;;1;;;;;;1
+"obehave";"https://github.com/obehave-qda/obehave";;;1;;;;;;;;;;;1
+"Observer XT";"noldus.com
+";;;;;;;;1;;;;;;1
+"obsidian-quadro";"https://github.com/chrisgrieser/obsidian-quadro";;;1;;;;;;;;;;;1
+"Office-QDA-TagTree";"https://github.com/jdittrich/Office-QDA-TagTree";;;1;;;;;;;;;;;1
+"Open Code";"https://web.archive.org/web/20170528202727/http://www.phmed.umu.se/enheter/epidemiologi/forskning/open-code";;;;;;1;;1;;;;;;2
+"openqda/openqda";"https://github.com/openqda/openqda/";;1;1;;;;;;;;;;;2
+"oral-history-as-data";"https://github.com/uidaholib/oral-history-as-data";;;1;;;;;;;;;;;1
+"orgqda";"https://github.com/andersjohansson/orgqda";;;1;;;;;;;;;;;1
+"otranscribe";"https://otranscribe.com";;;;;;;;;;1;;;;1
+"Pipoca";"https://www.wikidata.org/wiki/Q105861743";;;;;;;1;;;;;;;1
+"pytag";"https://github.com/lc-at/pytag";;;1;;;;;;;;;;;1
+"qc ";"https://github.com/cproctor/qualitative-coding";;1;;;;;;;;;;;;1
+"QCAmap";"https://www.qcamap.org/ui/en/home";;;;;;;;;1;;;;;1
+"QDA Miner";"http://www.provalisresearch.com/";;;;1;1;1;;1;1;1;;1;1;8
+"QDA Miner Lite";"https://provalisresearch.com/";;;;;;1;;;;;;1;1;3
+"QDAcity";"https://qdacity.com/";;;;;;1;;;;;;;;1
+"qdap";"https://github.com/trinker/qdap";;;1;;;1;;;;;;;;2
+"Qiqqa";"http://www.qiqqa.com/";;;;;;1;;;;1;;;;2
+"QualCA";"https://github.com/PALM-Lab/QualCA";;;1;;;;;;;;;;;1
+"Qualcoder";"https://github.com/ccbogel/QualCoder";;;1;;;1;1;;;;;;;3
+"QualFlow";"https://github.com/KentG-PhD/QualFlow";;;1;;;;;;;;;;;1
+"Qualifiers";"https://web.archive.org/web/20160502192223/http://hisii.hawaii.edu/qualifiers/qualifiers.html";;;;;;;;1;;;;;;1
+"qualitube";"https://github.com/vmussa/qualitube";;;1;;;;;;;;;;;1
+"Qualrus";"https://web.archive.org/web/20170309132201/https://www.ideaworks.com/qualrus";;;;;;;;1;;;;;;1
+"quantqual";"https://github.com/AndreasFischer1985/quantqual";;;1;;;;;;;;;;;1
+"Quirkos";"https://www.quirkos.com";;;;1;1;1;1;1;;1;1;1;1;9
+"r-min-caqdas ";"https://github.com/gastonbecerra/r-min-caqdas";;;1;;;;;;;;;;;1
+"Raven's Eye";"https://ravens-eye.net/";;;;;;;;1;;;;;;1
+"RCS-NVivo ";"https://github.com/AlexShermon/RCS-NVivo";;;1;;;;;;;;;;;1
+"Requal";"https://github.com/RE-QDA/requal/";;;1;;1;1;;;;;;;;3
+"RQDA";"https://github.com/RQDA/RQDA";;;1;;;1;;1;1;1;1;1;1;8
+"RQDA-RStudio-sshd";"https://github.com/MobileCommerceLab/RQDA-Rstudio-sshd";;;1;;;;;;;;;;;1
+"RQDA-to-CSV";"https://github.com/robertour/RQDA-to-CSV";;;1;;;;;;;;;;;1
+"scQA";"https://github.com/LD-Lyndee/scQA";;;1;;;;;;;;;;;1
+"Sequenceviewer";"http://sequenceviewer.nl/";;;;;;;;1;;;;;;1
+"ShAQDAS";"https://github.com/itcarroll/ShAQDAS";;;1;;;;;;;;;;;1
+"shinyqda";"https://github.com/jbryer/ShinyQDA";;;1;;;;;;;;;;;1
+"Sonal";"http://sonal-info.com/";;;;;;;;1;;;;;;1
+"stem";"https://github.com/chpir/stem";;;1;;;;;;;;;;;1
+"Symphony";"https://activejava.com/";;;;;;;;1;;;;;;1
+"Taguette";"https://www.taguette.org/";;1;;;;1;1;;;1;;;1;5
+"TamSys";"https://tamsys.sourceforge.io/";;;;;;;;1;1;;;;1;3
+"The Ethnograph";"https://qualisresearch.com/";;;;;;;;1;;;;;;1
+"TigerDataCoding";"https://github.com/paigerodeghero/TigerDataCoding";;;1;;;;;;;;;;;1
+"Tosmana";"https://tosmana.net/";;;;;;;;1;;;;;;1
+"Transana";"https://www.transana.com/";;;;1;1;1;;1;1;1;1;1;1;9
+"vignesh";"https://github.com/vickybiswas/vignesh";;;1;;;;;;;;;;;1
+"webQDA";"https://www.webqda.net/o-webqda/?lang=en";;;;;1;;;1;;1;;;1;4
+"Weft QDA";"http://www.pressure.to/qda/";;;;;;;;1;1;1;1;1;;5
+"WinRelan";"gabek.comhttps://www.gabek.com/?s=WINRELAN&lang=de";;;;;;;;1;;;;;;1
+"Wordsmith tools";"https://lexically.net/wordsmith/";;;;;1;;;;;;;;;1
+"Xsight";"http://www.qsrinternational.com
+";;;;;;1;;;;;;;;1
+"Count";;0;8;39;7;18;25;13;37;13;26;8;13;14;221

@@ -1,0 +1,11 @@
+name: CAQDAS Networking Project
+slug: caqdas-n-p
+url: https://www.surrey.ac.uk/computer-assisted-qualitative-data-analysis/resources/choosing-appropriate-caqdas-package
+method:
+  - open every listed review document (PDF)
+  - Record full name (Name) and url of the review (Review URL)
+  - search in document for a canonical url to the software or vendor (URL)
+  - visit vendor URL
+  - comment any deviation, such as website being down, redirecting or changes of names and services
+results:
+  - results.csv

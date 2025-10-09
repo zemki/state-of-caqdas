@@ -1,0 +1,7 @@
+name: REFI QDA Website
+slug: refi
+url: https://www.qdasoftware.org/project
+method:
+  - copy the list of project partners as is
+
+results: results.csv

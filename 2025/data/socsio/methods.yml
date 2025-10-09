@@ -1,0 +1,9 @@
+name: Social Science Software
+slug: sosciso
+url: https://web.archive.org/web/20170706051957/http://www.sosciso.de/de/software/datenanalyse/qualitativ/qda/
+
+method:
+  - open archive page
+  - review every software entry listed and add link to the final results
+
+results: results.csv

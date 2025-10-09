@@ -1,0 +1,20 @@
+name: Research Software Directory
+slug: rsd
+url: https://research-software-directory.org
+method:
+  - perform a manual search on the rsd website
+  - use no login and no registration
+  - use private browser session
+  - add entries as their appear in the results
+  - entries are manually added and should consist of Name and URL
+
+searches:
+  - term: caqdas
+    url: https://research-software-directory.org/software?search=caqdas&order=mention%20cnt&page=1&rows=12
+    results: none
+  - term: qda
+    url: https://research-software-directory.org/software?search=qda&order=mention%20cnt&page=1&rows=12
+    results: none
+  - term: qualitative data analysis
+    url: https://research-software-directory.org/software?search=qualitative%20data%20analysis&order=mention%20cnt&page=1&rows=12
+    results: none
