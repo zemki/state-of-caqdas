@@ -17,6 +17,10 @@ Each dataset contains the final data compilation plus the subsets and tools,
 involved in the steps that lead to the final set.
 All those aspects are described in their respective `summary.md` file.
 
+## Publications
+
+- [2025 - The Current State of CAQDAS is Insufficient for Open Science Qualitative Research](https://doi.org/10.14279/eceasst.v85.2709)
+
 ## Goals and Methods
 
 Our goal is to provide an extensive overview of **available**,
